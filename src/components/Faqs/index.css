@@ -1,0 +1,21 @@
+.faqs-container {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f1f5f8;
+  border-radius: 8px;
+}
+
+.faqs-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 28px;
+  color: #cb8805;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.faqs-list {
+  list-style-type: none;
+  padding: 0;
+}

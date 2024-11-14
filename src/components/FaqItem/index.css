@@ -1,0 +1,40 @@
+.faq-item {
+  margin-bottom: 15px;
+  background-color: #ffffff;
+  padding: 15px;
+  border: 1px solid #e4e7eb;
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.faq-question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.faq-question {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #52606d;
+  margin: 0; /* Ensures the h1 doesn't have extra margin */
+}
+
+.toggle-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.toggle-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.faq-answer {
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #9aa5b1;
+}
